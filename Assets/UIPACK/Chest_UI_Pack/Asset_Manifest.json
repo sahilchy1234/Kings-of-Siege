@@ -1,0 +1,572 @@
+[
+  {
+    "file": "Buttons/Cyan_Empty.png",
+    "width": 471,
+    "height": 142,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Buttons/Gold_Empty.png",
+    "width": 485,
+    "height": 152,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Buttons/Green_Empty.png",
+    "width": 470,
+    "height": 154,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Buttons/Grey_Empty.png",
+    "width": 474,
+    "height": 156,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Cards/Archer.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Cards/Card_Back.png",
+    "width": 259,
+    "height": 338,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Cards/Power_Card_Stack.png",
+    "width": 331,
+    "height": 339,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Cards/Swordsman.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_01.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_02.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_03.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_04.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_05.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_06.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_07.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_08.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_09.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_10.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_11.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Animation_Frames/Gold_12.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Gold_Closed.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Gold_Open.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Gold/Gold_Open_With_Light.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_01.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_02.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_03.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_04.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_05.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_06.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_07.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_08.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_09.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_10.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_11.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Animation_Frames/Master_12.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Master_Closed.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Master_Open.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Master/Master_Open_With_Light.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_01.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_02.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_03.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_04.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_05.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_06.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_07.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_08.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_09.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_10.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_11.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Animation_Frames/Silver_12.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Silver_Closed.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Silver_Open.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Chests/Silver/Silver_Open_With_Light.png",
+    "width": 362,
+    "height": 362,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Effects/Sparkle.png",
+    "width": 256,
+    "height": 256,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Icons/Clock.png",
+    "width": 128,
+    "height": 128,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Icons/Close.png",
+    "width": 204,
+    "height": 202,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Icons/Coin.png",
+    "width": 1263,
+    "height": 1246,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Icons/Coin_Stack.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Archer.png",
+    "width": 196,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Coins_Example.png",
+    "width": 321,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Collect.png",
+    "width": 254,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Count_1.png",
+    "width": 80,
+    "height": 55,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Count_2.png",
+    "width": 80,
+    "height": 56,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Duration_24h.png",
+    "width": 117,
+    "height": 56,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Duration_4h.png",
+    "width": 84,
+    "height": 56,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Duration_8h.png",
+    "width": 84,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Gold.png",
+    "width": 139,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Master.png",
+    "width": 204,
+    "height": 56,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Open_Chest.png",
+    "width": 357,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Power_Cards.png",
+    "width": 356,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Ready.png",
+    "width": 184,
+    "height": 66,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Selected_Example.png",
+    "width": 586,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Silver.png",
+    "width": 171,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Silver_Chest.png",
+    "width": 341,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Swordsman.png",
+    "width": 331,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Tap_To_Reveal.png",
+    "width": 368,
+    "height": 66,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Timer_Example.png",
+    "width": 255,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Unlocking.png",
+    "width": 284,
+    "height": 66,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Waiting.png",
+    "width": 224,
+    "height": 66,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Your_Chests.png",
+    "width": 337,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Labels/Your_Rewards.png",
+    "width": 388,
+    "height": 57,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Overlays/Card_Name_Fade.png",
+    "width": 200,
+    "height": 120,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Overlays/Chest_Gold_Glow.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Overlays/Screen_Dim.png",
+    "width": 32,
+    "height": 32,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Overlays/Selected_Blue_Glow.png",
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Panels/Divider_Horizontal.png",
+    "width": 512,
+    "height": 2,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Panels/Divider_Vertical.png",
+    "width": 2,
+    "height": 256,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Panels/Popup_Empty.png",
+    "width": 465,
+    "height": 338,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Progress/Fill_Cyan.png",
+    "width": 196,
+    "height": 24,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Progress/Track.png",
+    "width": 200,
+    "height": 28,
+    "mode": "RGBA"
+  },
+  {
+    "file": "Reference/Chest_Selection.png",
+    "width": 945,
+    "height": 1665,
+    "mode": "RGB"
+  },
+  {
+    "file": "Reference/Home_Original.png",
+    "width": 512,
+    "height": 901,
+    "mode": "RGB"
+  },
+  {
+    "file": "Reference/Opening_Screen.png",
+    "width": 462,
+    "height": 1199,
+    "mode": "RGB"
+  },
+  {
+    "file": "Reference/Opening_and_Rewards.png",
+    "width": 945,
+    "height": 1665,
+    "mode": "RGB"
+  },
+  {
+    "file": "Reference/Rewards_Screen.png",
+    "width": 461,
+    "height": 1199,
+    "mode": "RGB"
+  }
+]

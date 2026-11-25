@@ -1,0 +1,102 @@
+KINGS OF SIEGE - SOUND CREDITS
+=============================
+
+All sounds in Assets/Resources/Audio/KoS are CC0 1.0 (public domain dedication):
+https://creativecommons.org/publicdomain/zero/1.0/
+Commercial use is allowed and attribution is not required; it is given here anyway.
+Licenses were checked on each source page on 2026-11-23. Files were trimmed, loudness-normalized
+(EBU R128, -16 LUFS SFX / -18 LUFS music) and converted to Ogg Vorbis.
+
+Kenney - Impact Sounds  |  License: CC0 1.0  |  https://kenney.nl/assets/impact-sounds
+    melee_hit/impactPlate_medium_000.ogg   <- impactPlate_medium_000.ogg
+    melee_hit/impactPlate_medium_001.ogg   <- impactPlate_medium_001.ogg
+    melee_hit/impactPlate_medium_002.ogg   <- impactPlate_medium_002.ogg
+    melee_hit/impactPlate_medium_003.ogg   <- impactPlate_medium_003.ogg
+    melee_hit/impactPunch_medium_000.ogg   <- impactPunch_medium_000.ogg
+    melee_hit/impactPunch_medium_001.ogg   <- impactPunch_medium_001.ogg
+    unit_death/impactSoft_heavy_000.ogg   <- impactSoft_heavy_000.ogg
+    unit_death/impactSoft_heavy_001.ogg   <- impactSoft_heavy_001.ogg
+    unit_death/impactSoft_heavy_002.ogg   <- impactSoft_heavy_002.ogg
+    unit_death/impactSoft_heavy_003.ogg   <- impactSoft_heavy_003.ogg
+    unit_deploy/impactSoft_medium_002.ogg   <- impactSoft_medium_002.ogg
+    unit_deploy/impactSoft_medium_003.ogg   <- impactSoft_medium_003.ogg
+    unit_deploy/impactSoft_medium_004.ogg   <- impactSoft_medium_004.ogg
+    stone_impact/impactMining_000.ogg   <- impactMining_000.ogg
+    stone_impact/impactMining_001.ogg   <- impactMining_001.ogg
+    fence_place/impactPlank_medium_000.ogg   <- impactPlank_medium_000.ogg
+    fence_place/impactPlank_medium_001.ogg   <- impactPlank_medium_001.ogg
+    fence_place/impactPlank_medium_002.ogg   <- impactPlank_medium_002.ogg
+    wood_hit/impactWood_light_000.ogg   <- impactWood_light_000.ogg
+    wood_hit/impactWood_light_001.ogg   <- impactWood_light_001.ogg
+    wood_hit/impactWood_light_002.ogg   <- impactWood_light_002.ogg
+    wood_smash/impactWood_heavy_000.ogg   <- impactWood_heavy_000.ogg
+    wood_smash/impactWood_heavy_001.ogg   <- impactWood_heavy_001.ogg
+    wood_smash/impactWood_heavy_002.ogg   <- impactWood_heavy_002.ogg
+    wood_smash/impactWood_heavy_003.ogg   <- impactWood_heavy_003.ogg
+    trap_snap/impactMetal_heavy_000.ogg   <- impactMetal_heavy_000.ogg
+    trap_snap/impactMetal_heavy_001.ogg   <- impactMetal_heavy_001.ogg
+    trap_strike/impactMetal_medium_000.ogg   <- impactMetal_medium_000.ogg
+    trap_strike/impactMetal_medium_001.ogg   <- impactMetal_medium_001.ogg
+    trap_strike/impactMetal_medium_002.ogg   <- impactMetal_medium_002.ogg
+    shield_up/impactBell_heavy_000.ogg   <- impactBell_heavy_000.ogg
+    shield_up/impactBell_heavy_001.ogg   <- impactBell_heavy_001.ogg
+    tower_build/impactWood_heavy_004.ogg   <- impactWood_heavy_004.ogg
+    tower_build/impactPlank_medium_003.ogg   <- impactPlank_medium_003.ogg
+
+rubberduck - 100 CC0 SFX #2  |  License: CC0 1.0  |  https://opengameart.org/content/100-cc0-sfx-2
+    stone_impact/sfx100v2_stones_01.ogg   <- sfx100v2_stones_01.ogg
+    stone_impact/sfx100v2_stones_02.ogg   <- sfx100v2_stones_02.ogg
+    stone_impact/sfx100v2_stones_03.ogg   <- sfx100v2_stones_03.ogg
+    rubble/sfx100v2_stones_02.ogg   <- sfx100v2_stones_02.ogg
+
+rubberduck - 100 CC0 SFX  |  License: CC0 1.0  |  https://opengameart.org/content/100-cc0-sfx
+    big_explosion/explosion.ogg   <- explosion.ogg
+    banner_gong/gong_01.ogg   <- gong_01.ogg
+    final_gong/gong_02.ogg   <- gong_02.ogg
+
+Kenney - RPG Audio  |  License: CC0 1.0  |  https://kenney.nl/assets/rpg-audio
+    trap_snap/metalLatch.ogg   <- metalLatch.ogg
+    coins/handleCoins.ogg   <- handleCoins.ogg
+    coins/handleCoins2.ogg   <- handleCoins2.ogg
+    swing/knifeSlice.ogg   <- knifeSlice.ogg
+    swing/knifeSlice2.ogg   <- knifeSlice2.ogg
+    cart_rattle/creak1.ogg   <- creak1.ogg
+
+Kenney - Interface Sounds  |  License: CC0 1.0  |  https://kenney.nl/assets/interface-sounds
+    countdown_tick/tick_002.ogg   <- tick_002.ogg
+    reward_pop/confirmation_001.ogg   <- confirmation_001.ogg
+    ui_error/error_006.ogg   <- error_006.ogg
+
+Kenney - Casino Audio  |  License: CC0 1.0  |  https://kenney.nl/assets/casino-audio
+    card_select/card-slide-1.ogg   <- card-slide-1.ogg
+    card_select/card-slide-2.ogg   <- card-slide-2.ogg
+    card_select/card-slide-3.ogg   <- card-slide-3.ogg
+    card_play/card-place-1.ogg   <- card-place-1.ogg
+    card_play/card-place-2.ogg   <- card-place-2.ogg
+
+cynicmusic - Town Theme RPG  |  License: CC0 1.0  |  https://opengameart.org/content/town-theme-rpg
+    music/menu_town_theme.ogg   <- TownTheme.mp3
+
+cynicmusic - Battle Theme A  |  License: CC0 1.0  |  https://opengameart.org/content/battle-theme-a
+    music/battle_theme_a.ogg   <- battleThemeA.mp3
+
+Kenney - Music Jingles  |  License: CC0 1.0  |  https://kenney.nl/assets/music-jingles
+    victory_jingle/jingles_PIZZI02.ogg   <- jingles_PIZZI02.ogg
+    defeat_jingle/jingles_PIZZI01.ogg   <- jingles_PIZZI01.ogg
+    reward_jingle/jingles_PIZZI10.ogg   <- jingles_PIZZI10.ogg
+
+PRE-EXISTING SOUNDS (already in the project, reused, not downloaded in this pass)
+Assets/audioMohamad/*, Assets/Resources/Sounds/*, Assets/Resources/Audio/UIClick.mp3
+The file names (e.g. dragon-studio-*, universfield-*, freesound_community-*, nhlk-*, audioatlant-*)
+match Pixabay uploads, which use the Pixabay Content License (commercial use allowed, no attribution
+required, cannot be resold as standalone sound files). Confirm each one on pixabay.com/sound-effects
+before release, since their origin was not recorded when they were added.
+
+ADDED 2026-11-23 (softer arrows, all CC0)
+rubberduck - 100 CC0 SFX #2  |  https://opengameart.org/content/100-cc0-sfx-2
+    arrow_release/sfx100v2_air_03.ogg   <- sfx100v2_air_03.ogg
+Kenney - RPG Audio  |  https://kenney.nl/assets/rpg-audio
+    arrow_release/cloth2.ogg   <- cloth2.ogg
+    arrow_release/cloth4.ogg   <- cloth4.ogg
+Kenney - Impact Sounds  |  https://kenney.nl/assets/impact-sounds
+    arrow_hit/impactGeneric_light_000..004.ogg   <- impactGeneric_light_000..004.ogg

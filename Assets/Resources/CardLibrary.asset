@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c2fd26edb5de774585b3e56a65c128e, type: 3}
+  m_Name: CardLibrary
+  m_EditorClassIdentifier: 
+  cards:
+  - cardId: swordsman
+    displayName: Swordsman
+    cardType: 0
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: c50095acfc03eb44c945e5d17be496ed, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: heavy_knight
+    displayName: Heavy Knight
+    cardType: 0
+    rarity: 3
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: 7bdd8c391141ca545ad514be543d67f6, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: greatsword_knight
+    displayName: Greatsword Knight
+    cardType: 0
+    rarity: 3
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: fe7896cfc9a602442ac3bdcaac372544, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: spearman
+    displayName: Spearman
+    cardType: 0
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: 894f59f444d1b894f9b62bbc5db846d8, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: halberdier
+    displayName: Halberdier
+    cardType: 0
+    rarity: 3
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: fa8feeeff949ff6448a35beb7d9b0945, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: axeman
+    displayName: Axeman
+    cardType: 0
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: 9a583c73b34cf3b45b8f30431dea29c8, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: mace_warrior
+    displayName: Mace Warrior
+    cardType: 0
+    rarity: 3
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: cad0751cd0e000b4f9b8089c65a16faa, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 1
+    maxLevel: 10
+  - cardId: archer
+    displayName: Archer
+    cardType: 0
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: c917fbf9cfb3c054ba55c7eecedb68a5, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: crossbowman
+    displayName: Crossbowman
+    cardType: 0
+    rarity: 3
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: cb89d31db1d3c484cbb8aab8629e79b6, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: rogue
+    displayName: Rogue
+    cardType: 0
+    rarity: 3
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: af959022cdf8e9745b8ceff8b7a974ff, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: king
+    displayName: King
+    cardType: 0
+    rarity: 3
+    elixirCost: 5
+    cardSprite: {fileID: 21300000, guid: 884f75b7a4491694b941a63c686ff652, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: wizard
+    displayName: Wizard
+    cardType: 0
+    rarity: 3
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: 7318dc69a4532ac4987a284e7417a5f9, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: cleric
+    displayName: Cleric
+    cardType: 0
+    rarity: 3
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: 0778f9b28c8358c43a5ead8c317b7326, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: sword_cavalry
+    displayName: Sword Cavalry
+    cardType: 0
+    rarity: 8
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: 05138e526be455f45b5e42554db5bf64, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: axe_cavalry
+    displayName: Axe Cavalry
+    cardType: 0
+    rarity: 8
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: c7562ae34d208a94e8c549360bda581d, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: lancer
+    displayName: Lancer
+    cardType: 0
+    rarity: 8
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: 71ef9c1fbf5e40b40a5b96e0a119525e, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: horse_archer
+    displayName: Horse Archer
+    cardType: 0
+    rarity: 8
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: 9a042b9a96fce884f87d96af3b6cd09e, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: mounted_king
+    displayName: Mounted King
+    cardType: 0
+    rarity: 8
+    elixirCost: 5
+    cardSprite: {fileID: 21300000, guid: 229e765166ed44d4b9eafbc6b3d7185f, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: mounted_wizard
+    displayName: Mounted Wizard
+    cardType: 0
+    rarity: 8
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: 47f97a76a5c68b4458cf7a70ced026e3, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: mounted_cleric
+    displayName: Mounted Cleric
+    cardType: 0
+    rarity: 8
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: 2f16e7b2e6aed5e49a93a441daeda4d6, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: battering_ram
+    displayName: Battering Ram
+    cardType: 0
+    rarity: 8
+    elixirCost: 5
+    cardSprite: {fileID: 21300000, guid: 89964ccfee06b384ea2597a9e2e50fed, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: ballista
+    displayName: Ballista
+    cardType: 0
+    rarity: 3
+    elixirCost: 5
+    cardSprite: {fileID: 21300000, guid: 14dc7c882601cbd4d9fec5bcac7490f0, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: catapult
+    displayName: Catapult
+    cardType: 0
+    rarity: 3
+    elixirCost: 6
+    cardSprite: {fileID: 21300000, guid: c222f7a615ded514385354c35039ae49, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 1
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: arrow_shower
+    displayName: Arrow Shower
+    cardType: 1
+    rarity: 3
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: ac5ef98d9628b1c49a16315978dff2b5, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: fire_arrows
+    displayName: Fire Arrows
+    cardType: 1
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: 484ae2f78f1829d45bbe6bcf218d8e2a, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: big_fireball
+    displayName: Big Fireball
+    cardType: 1
+    rarity: 3
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: dcad1f7c2c0e5be4dab51910367d31ea, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: archer_tower
+    displayName: Archer Tower
+    cardType: 1
+    rarity: 3
+    elixirCost: 5
+    cardSprite: {fileID: 21300000, guid: 96a75fb4646f0db4b974741566479ae5, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: reinforcement_cart
+    displayName: Reinforcement Cart
+    cardType: 1
+    rarity: 3
+    elixirCost: 3
+    cardSprite: {fileID: 21300000, guid: 0a3926bcd2f4350488a7e3548478d3bb, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: wood_rolling
+    displayName: Wood Rolling
+    cardType: 1
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: a11aeb70e8f1178449b4bfb471bf50b5, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: steel_trap
+    displayName: Steel Trap
+    cardType: 1
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: cad83e7da15039748afe16cb8db0bd61, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: stone_shower
+    displayName: Stone Shower
+    cardType: 1
+    rarity: 3
+    elixirCost: 5
+    cardSprite: {fileID: 21300000, guid: 70f1ee0109a6c974988300d2720f31ae, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: fence
+    displayName: Fence
+    cardType: 1
+    rarity: 3
+    elixirCost: 2
+    cardSprite: {fileID: 21300000, guid: ae62464e8584d14428cd773f903868f5, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10
+  - cardId: shield_dome
+    displayName: Shield Dome
+    cardType: 1
+    rarity: 3
+    elixirCost: 4
+    cardSprite: {fileID: 21300000, guid: a90bcf43536dded409a5607699129e03, type: 3}
+    rarityColor: {r: 0, g: 0, b: 0, a: 0}
+    arenaUnlockLevel: 3
+    isUnlockedByDefault: 0
+    maxLevel: 10

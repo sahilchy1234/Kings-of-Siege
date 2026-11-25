@@ -1,0 +1,122 @@
+[
+  {
+    "file": "Background/background.png",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "file": "Characters/king.png",
+    "width": 1140,
+    "height": 1380,
+    "alpha": true
+  },
+  {
+    "file": "Panels/battle_button.png",
+    "width": 1881,
+    "height": 836,
+    "alpha": true
+  },
+  {
+    "file": "Panels/league_panel.png",
+    "width": 2172,
+    "height": 724,
+    "alpha": true
+  },
+  {
+    "file": "Icons/shop.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/cards.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/home.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/rankings.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/missions.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/rewards.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/coin.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/gem.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/settings.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Icons/swords.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  },
+  {
+    "file": "Panels/nav_panel.png",
+    "width": 2172,
+    "height": 724,
+    "alpha": true
+  },
+  {
+    "file": "Panels/shortcut_button.png",
+    "width": 1312,
+    "height": 1199,
+    "alpha": true
+  },
+  {
+    "file": "Panels/selected_tab.png",
+    "width": 1484,
+    "height": 1060,
+    "alpha": true
+  },
+  {
+    "file": "Icons/level_badge.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true
+  },
+  {
+    "file": "Icons/gold_badge_clean.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true
+  },
+  {
+    "file": "Characters/king_avatar.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true
+  }
+]

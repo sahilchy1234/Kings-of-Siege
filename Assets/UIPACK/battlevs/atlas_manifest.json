@@ -1,0 +1,182 @@
+[
+  {
+    "file": "png/avatar_red.png",
+    "atlas_rect": {
+      "x": 0,
+      "y": 0,
+      "width": 330,
+      "height": 285
+    }
+  },
+  {
+    "file": "png/avatar_blue.png",
+    "atlas_rect": {
+      "x": 330,
+      "y": 0,
+      "width": 305,
+      "height": 285
+    }
+  },
+  {
+    "file": "png/nameplate_red_silver_blank.png",
+    "atlas_rect": {
+      "x": 635,
+      "y": 0,
+      "width": 290,
+      "height": 285
+    }
+  },
+  {
+    "file": "png/nameplate_blue_gold_blank.png",
+    "atlas_rect": {
+      "x": 925,
+      "y": 0,
+      "width": 329,
+      "height": 285
+    }
+  },
+  {
+    "file": "png/league_starter_wood.png",
+    "atlas_rect": {
+      "x": 0,
+      "y": 285,
+      "width": 330,
+      "height": 235
+    }
+  },
+  {
+    "file": "png/league_silver.png",
+    "atlas_rect": {
+      "x": 330,
+      "y": 285,
+      "width": 305,
+      "height": 235
+    }
+  },
+  {
+    "file": "png/league_gold.png",
+    "atlas_rect": {
+      "x": 635,
+      "y": 285,
+      "width": 290,
+      "height": 235
+    }
+  },
+  {
+    "file": "png/league_legend.png",
+    "atlas_rect": {
+      "x": 925,
+      "y": 285,
+      "width": 329,
+      "height": 235
+    }
+  },
+  {
+    "file": "png/league_champion.png",
+    "atlas_rect": {
+      "x": 0,
+      "y": 520,
+      "width": 330,
+      "height": 242
+    }
+  },
+  {
+    "file": "png/level_medallion_silver_blank.png",
+    "atlas_rect": {
+      "x": 330,
+      "y": 520,
+      "width": 305,
+      "height": 242
+    }
+  },
+  {
+    "file": "png/level_medallion_gold_blank.png",
+    "atlas_rect": {
+      "x": 635,
+      "y": 520,
+      "width": 290,
+      "height": 242
+    }
+  },
+  {
+    "file": "png/battle_sword_soldier.png",
+    "atlas_rect": {
+      "x": 925,
+      "y": 520,
+      "width": 329,
+      "height": 242
+    }
+  },
+  {
+    "file": "png/battle_mounted_knight.png",
+    "atlas_rect": {
+      "x": 0,
+      "y": 762,
+      "width": 330,
+      "height": 228
+    }
+  },
+  {
+    "file": "png/battle_spearman.png",
+    "atlas_rect": {
+      "x": 330,
+      "y": 762,
+      "width": 305,
+      "height": 228
+    }
+  },
+  {
+    "file": "png/battle_crossed_swords_shield.png",
+    "atlas_rect": {
+      "x": 635,
+      "y": 762,
+      "width": 290,
+      "height": 228
+    }
+  },
+  {
+    "file": "png/battle_sword_soldier_reverse.png",
+    "atlas_rect": {
+      "x": 925,
+      "y": 762,
+      "width": 329,
+      "height": 228
+    }
+  },
+  {
+    "file": "png/countdown_1.png",
+    "atlas_rect": {
+      "x": 0,
+      "y": 990,
+      "width": 330,
+      "height": 264
+    }
+  },
+  {
+    "file": "png/countdown_2.png",
+    "atlas_rect": {
+      "x": 330,
+      "y": 990,
+      "width": 305,
+      "height": 264
+    }
+  },
+  {
+    "file": "png/countdown_3.png",
+    "atlas_rect": {
+      "x": 635,
+      "y": 990,
+      "width": 290,
+      "height": 264
+    }
+  },
+  {
+    "file": "png/countdown_start.png",
+    "atlas_rect": {
+      "x": 925,
+      "y": 990,
+      "width": 329,
+      "height": 264
+    }
+  }
+]

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46465dbdddd439f42924305855fdecd6, type: 3}
+  m_Name: MissionsManager
+  m_EditorClassIdentifier: 
+  missions:
+  - {fileID: 11400000, guid: 907780a8ef9da334d99c4e7161063f34, type: 2}
+  - {fileID: 11400000, guid: c2f3ffb01adf4c84abe97ce159dc22a9, type: 2}
+  - {fileID: 11400000, guid: 6107681e80cb03b41b145f7bfd523bb3, type: 2}
+  - {fileID: 11400000, guid: d8f61a877fa97884fb388d63e1cb7478, type: 2}
+  - {fileID: 11400000, guid: 4f0b2f27e5b258541b386351cd4851f5, type: 2}
+  - {fileID: 11400000, guid: 50408025da166554ca9cf325ac591d33, type: 2}
+  - {fileID: 11400000, guid: f0b9a5221584c7a4b8a47d1bfae63c6d, type: 2}
+  - {fileID: 11400000, guid: 6c79b712482b65c4faac3853f868dda0, type: 2}
+  - {fileID: 11400000, guid: 85cdb5b2fb2214247b976d298964be95, type: 2}
+  - {fileID: 11400000, guid: a250297e88335d14dad78dc14fbfd4f2, type: 2}
+  - {fileID: 11400000, guid: 0255aa9c3f4b2214d820c5ccf9901adc, type: 2}
+  - {fileID: 11400000, guid: 5c935eb7eb64f3e44aad2688dfdb7c14, type: 2}

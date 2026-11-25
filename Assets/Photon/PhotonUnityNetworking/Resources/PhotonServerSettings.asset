@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 4202689c-241e-4c45-bf08-a69ff46b9d6b
+    AppIdFusion: 
+    AppIdChat: 12cefc02-c21c-4b4a-b08e-03b50490e61d
+    AppIdVoice: 
+    AppIdVideo: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: asia
+    Server: ns.exitgames.com
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPC_CastPowerup
+  - RPC_SpawnUnit
+  - RPC_RequestSpawn
+  - RPC_ApplyUnitSync
+  - RPC_SpawnPeasantAt
+  - RPC_ReportPlayerReady
+  - RPC_StartBattleCountdown
+  - RPC_UnitDied
+  - RPC_TowerFired
+  - RPC_TowerCaptured
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 0
